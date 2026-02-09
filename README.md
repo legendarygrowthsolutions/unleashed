@@ -85,4 +85,4 @@ The following features require backend development (e.g., Supabase, Firebase, or
 
 *© 2026 The Woof & Whisker. All rights reserved.*
 
----
+--
